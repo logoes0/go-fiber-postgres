@@ -56,10 +56,10 @@ Before running this application, ensure you have the following installed:
 
 ## API Endpoints
 
-- **Get All Employees**: `GET /employee`
-- **Add a New Employee**: `POST /employee`
-- **Update an Employee**: `PUT /employee`
-- **Delete an Employee**: `DELETE /employee`
+- **Get All Books**: `GET /books`
+- **Add a New Book**: `POST /create_books`
+- **Get Book by ID**: `GET /get_book/:id`
+- **Delete an Book**: `DELETE /delete_book/:id`
 
 ## Project Structure
 
